@@ -107,7 +107,7 @@ Employee-Management/
 
 # 1. Clone the repository
 
-git clone https://github.com/kotnibhargavi/Ajackus-Assesment-Employee-Directory.git
+git clone https://github.com/kotnibhargavi/Ajackus-Assesment-Employee-Directory-.git
 
 # 2. Navigate into the project directory
 
