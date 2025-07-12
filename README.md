@@ -5,7 +5,7 @@ A responsive, modular, and dynamic web interface for managing employee records. 
 ---
 
 ## 📁 Project Structure
-
+```
 Employee-Management/
 ├── client/
 │ ├── pages/
@@ -23,7 +23,7 @@ Employee-Management/
 ├── package.json
 ├── package-lock.json
 ├── vite.config.js
-
+```
 - `client/pages/`: Components for different views (index.js, Notfound.js).
 - `public/`: Static assets (icons, images, metadata files).
 - `shared/employee.js`: JavaScript array simulating employee data.
