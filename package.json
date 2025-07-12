@@ -1,0 +1,24 @@
+{
+  "name": "employee-directory",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest --run",
+    "format.fix": "prettier --write ."
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.6.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react-swc": "^3.5.0",
+    "prettier": "^3.5.3",
+    "vite": "^6.2.2",
+    "vitest": "^3.1.4"
+  }
+}
